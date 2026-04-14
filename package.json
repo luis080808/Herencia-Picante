@@ -1,0 +1,19 @@
+{
+  "name": "herencia-picante",
+  "version": "1.0.0",
+  "description": "Página web de Herencia Picante - Salsas Artesanales, Nuevo Laredo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "legacy": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "author": "Herencia Picante",
+  "license": "ISC"
+}
